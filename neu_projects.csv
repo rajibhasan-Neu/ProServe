@@ -1,0 +1,7 @@
+neu_enddate,importsequencenumber,neu_vertical,neu_name,neu_projectid,neu_startdate,statuscode,statecode,timezoneruleversionnumber,neu_tracking,utcconversiontimezonecode,versionnumber,neu_accountid,owningbusinessunit
+9/30/2021 7:00,,Professional Services,Regulatory Check,4e1e157e-cbd5-eb11-bacc-000d3a3b918c,2/1/2021 8:00,Active,Active,0,75,,3650811,,c716ec9d-5389-eb11-b1ad-000d3a33f061
+9/1/2021 7:00,1,Healthcare,Regulatory Check,7b57c121-3ecd-eb11-8235-000d3a3abc63,4/1/2021 7:00,Active,Active,0,0,,3650804,,c716ec9d-5389-eb11-b1ad-000d3a33f061
+9/1/2021 7:00,,Healthcare,Payor Analytics Dev​,6dfd0c13-04cb-eb11-bacc-000d3a5a1aee,4/1/2021 7:00,Active,Active,0,25,,3650799,,c716ec9d-5389-eb11-b1ad-000d3a33f061
+4/1/2022 7:00,,Construction,Financial Crimes Analysis,c5acf357-04cb-eb11-bacc-000d3a5a1aee,6/1/2021 7:00,Active,Active,0,25,,3650795,,c716ec9d-5389-eb11-b1ad-000d3a33f061
+9/30/2021 7:00,,Healthcare,Financial Crimes Analysis,ff579871-09cb-eb11-bacc-000d3a5a1aee,1/1/2021 8:00,Active,Active,0,100,,3650787,,c716ec9d-5389-eb11-b1ad-000d3a33f061
+4/1/2022 7:00,1,Construction,Forensic Examination,7757c121-3ecd-eb11-8235-000d3a3abc63,6/1/2021 7:00,Active,Active,0,70,,3650777,,c716ec9d-5389-eb11-b1ad-000d3a33f061
